@@ -1,3 +1,3 @@
 # QuickFind
 
-Quick Find algorithm for study purposes.
+Quick Find Java algorithm for study purposes.
